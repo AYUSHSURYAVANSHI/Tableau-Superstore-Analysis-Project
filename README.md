@@ -15,5 +15,5 @@ This repository hosts a comprehensive analysis of the Superstore sales dataset, 
 - `Tableau-Superstore-Analysis-Doc.pdf`: This document offers a detailed explanation of the project, including charts and visualizations that highlight key insights derived from the Superstore dataset.
 
 ## Contact
-For any queries or feedback, feel free to reach out to me at rohitpaul09@gmail.com
+For any queries or feedback, feel free to reach out to me at surywanshiayushgmail.com
 
